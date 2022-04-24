@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "Contém primeiro projeto do curso de backend da Reprograma; é um sistema que organiza e filtra livros.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnes-ignacio/reprograma-projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnes-ignacio/reprograma-projeto1/issues"
+  },
+  "homepage": "https://github.com/agnes-ignacio/reprograma-projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
